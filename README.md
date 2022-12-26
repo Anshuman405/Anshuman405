@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-**Anshuman405/Anshuman405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I am Anshuman, one of the greatest developers in 6th grade. I love coding, I love to code everyday. This is what I do everyday:
+Live
+Code
+Eat
+Sleep
+Repeat
 
 Here are some ideas to get you started:
 
