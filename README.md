@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Hey, I am Anshuman, one of the greatest developers in 9th grade:
+I'm Anshuman, a high school freshman interested in **business** and **web development**, focused on building tools that help students and schools.
 
-- 👯 I’m looking to collaborate on discord
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Coding
-
+- Currently leading **StudyFlow**, a web app that helps high school students manage time and plan for college goals.
+- Building full‑stack projects with **React, Vite/Next.js, and Git**, and exploring AI integrations.
+- Contributing to **StuImpact**, a nonprofit platform connecting school clubs across schools, with dashboards and role-based access.
+- Interested in project management, entrepreneurship, and engineering lab opportunities (like SEAL at the University of Washington).
+- Ask me about JavaScript, React, or student-led tech projects.
